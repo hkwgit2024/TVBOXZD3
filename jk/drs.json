@@ -3,8 +3,8 @@
 ##2.俊佬版本多jar链接写法：{"key":"","name":"","type":3,"api":"***","searchable":1,"quickSearch":1,"filterable":1,"jar":"your_other_jar"}
 {
 ##爬虫文件
-//"spider":"./jar/fty.jar", 
-"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431", 
+"spider":"./sp/XBPQ.jar?md5=65c2929d870759604dad0aa9cebec0a6", 
+//"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431", 
 ##壁纸
 "wallpaper":"./img/w2.png",
 
